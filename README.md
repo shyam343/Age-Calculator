@@ -1,5 +1,5 @@
 # AGE-CALCULATOR
-Age Calculator: calculate your age online today from date of birth. Find how old you are in years online.
+Age calculator is an online tool with we can find out our age using our date of birth and the current date. The tool helps to find out the difference in time between two dates. The result is displayed in years only. The results are also not affected by the time zone of a person since the tool just tells you the difference in time. The age calculator is based on the common age system, therefore it can be used by everyone online.
 ![3rd pg](https://github.com/shyam343/Age-Calculator/assets/84222697/a1f2a70d-4b01-4ab9-b41e-39192046e7e2)
 
 # This is my First Task During The Internship in CODEALPHA.
