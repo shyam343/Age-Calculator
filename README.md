@@ -1,5 +1,7 @@
-# Age-Calculator
+# AGE-CALCULATOR
 Age Calculator: calculate your age online today from date of birth. Find how old you are in years online.
+![3rd pg](https://github.com/shyam343/Age-Calculator/assets/84222697/a1f2a70d-4b01-4ab9-b41e-39192046e7e2)
+
 # This is my First Task During The Internship in CODEALPHA.
 ## TASK 1
 # Overview
