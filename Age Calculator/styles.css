@@ -76,16 +76,3 @@
   background-size: 30px;
   cursor: pointer;
 }
-#result{
-  font-size: 20px;
-  font-weight: 600;
-}
-#result span{
-  color: rgb(255, 251, 0);
-}
-
-.video{
-  border-radius: 200px;
-  margin-top: -485px;
-  margin-left: 825px;
-}
